@@ -1,4 +1,4 @@
-# gulpfile-yoshimoto
+# gulpfile-yoshimoto-PCtoSP
 
 ## 環境
 - Gulpが使える環境が前提（4系）
@@ -10,4 +10,3 @@
 - gulp とコマンドを叩けばタスクランナー起動
 - あとは、そのまま使える
 
-# gulpfile-yoshimoto-PCtoSP
